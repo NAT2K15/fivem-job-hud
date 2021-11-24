@@ -4,5 +4,6 @@ author 'NAT2K15'
 
 
 client_scripts {
-    'client.lua'
+    'config.lua',
+    'client/client.lua'
 }
